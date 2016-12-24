@@ -8,7 +8,7 @@ Color theme for visual studio code (TextMate format)
 Mac OS X:
 
 ```
-$ cd /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions/
+$ cd ~/.vscode/extensions/
 $ git clone https://github.com/JunSuzukiJapan/theme-japanesque.git
 ```
 
