@@ -1,15 +1,22 @@
 {
-	"name": "theme-japanesque",
-	"version": "0.1.0",
-	"publisher": "junsuzuki",
-	"engines": { "vscode": "*" },
-	"contributes": {
-		"themes": [
-			{
-				"label": "Japanesque Dark",
-				"uiTheme": "vs-dark",
-				"path": "./Japanesque.tmTheme"
-			}
-		]
-	}
+    "name": "theme-japanesque",
+    "displayName": "Japanesque Theme",
+    "description": "Japanesque color theme",
+    "version": "0.0.1",
+    "publisher": "junsuzuki",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Japanesque",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Japanesque.tmTheme"
+            }
+        ]
+    }
 }
