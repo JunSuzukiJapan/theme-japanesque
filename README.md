@@ -2,7 +2,7 @@
 
 Color theme for visual studio code (TextMate format)
 
-![screenshot](https://github.com/JunSuzukiJapan/theme-japanesque/blob/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/JunSuzukiJapan/theme-japanesque/master/images/screenshot.png)
 # Installation
 
 Mac OS X:
