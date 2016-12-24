@@ -1,7 +1,7 @@
 {
 	"name": "theme-japanesque",
 	"version": "0.1.0",
-	"publisher": "Jun Suzuki (jun.suzuki.japan@gmail.com)",
+	"publisher": "junsuzuki",
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
