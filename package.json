@@ -1,0 +1,15 @@
+{
+	"name": "theme-japanesque",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Japanesque Dark",
+				"uiTheme": "vs-dark",
+				"path": "./Japanesque.tmTheme"
+			}
+		]
+	}
+}
