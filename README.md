@@ -1,2 +1,18 @@
-# Japanese-color-theme
+# theme-japanesque
+
 Color theme for visual studio code (TextMate format)
+
+# Installation
+
+```Mac OS X
+$ cd /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/extensions/
+$ git clone https://github.com/JunSuzukiJapan/theme-japanesque.git
+```
+
+And restart Visual Studio Code.
+
+# Select theme
+
+See below:
+
+[https://code.visualstudio.com/Docs/customization/themes#_selecting-the-color-theme](https://code.visualstudio.com/Docs/customization/themes#_selecting-the-color-theme)
