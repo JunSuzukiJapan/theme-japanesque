@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Japanesque",
+                "label": "Japanesque Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Japanesque.tmTheme"
+            },
+            {
+                "label": "Japanesque Light",
+                "uiTheme": "vs",
+                "path": "./themes/Japanesque-Light.tmTheme"
             }
         ]
     }
