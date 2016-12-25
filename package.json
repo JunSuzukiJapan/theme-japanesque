@@ -2,8 +2,9 @@
     "name": "theme-japanesque",
     "displayName": "Japanesque Theme",
     "description": "Japanesque color theme",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "junsuzuki",
+    "icon": "images/JapanesqueIcon.png",
     "engines": {
         "vscode": "^1.5.0"
     },
