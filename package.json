@@ -2,7 +2,7 @@
     "name": "theme-japanesque",
     "displayName": "Japanesque Theme",
     "description": "Japanesque color theme",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "junsuzuki",
     "icon": "images/JapanesqueIcon.png",
     "engines": {
@@ -22,6 +22,11 @@
                 "label": "Japanesque Light",
                 "uiTheme": "vs",
                 "path": "./themes/Japanesque-Light.tmTheme"
+            },
+            {
+                "label": "Japanesque Sakura",
+                "uiTheme": "vs",
+                "path": "./themes/Japanesque-Sakura.tmTheme"
             }
         ]
     }
